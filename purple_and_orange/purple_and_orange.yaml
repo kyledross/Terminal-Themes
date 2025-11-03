@@ -1,6 +1,6 @@
 name: Purple and Orange (Ubuntu-inspired)
 accent: '#E95420'
-background: '#1D0D17'
+background: '#300924'
 foreground: '#FFFFFF'
 details: darker
 terminal_colors:
