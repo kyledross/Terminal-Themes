@@ -6,7 +6,7 @@ See https://docs.warp.dev/terminal/appearance/custom-themes for more information
 
 ### Purple and Orange
 
-Ubuntu-inspired theme with a deep purple background and orange accent.
+Ubuntu-inspired theme with a deep purple background and orange accent, like the default Ubuntu terminal.
 
 ## Installation
 
